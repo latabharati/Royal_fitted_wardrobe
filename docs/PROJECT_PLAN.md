@@ -23,8 +23,8 @@
 - [x] Obtain explicit approval for homepage implementation.
 - [x] Approve initial Figma homepage concept.
 - [x] Implement initial HTML, CSS and JavaScript homepage.
-- [ ] Add and verify approved wardrobe hero image.
-- [ ] Review homepage PR and test in browser.
+- [x] Add approved wardrobe hero image and verify repository file.
+- [ ] Browser test and review homepage PR.
 - [ ] Build responsive website and gallery.
 - [ ] Configure secure CMS dashboard and content integration.
 - [ ] Configure contact options and enquiry form if approved.
