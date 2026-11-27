@@ -25,7 +25,9 @@
 - [x] Implement initial HTML, CSS and JavaScript homepage.
 - [x] Add approved wardrobe hero image and verify repository file.
 - [x] Add 120 × 120 Apple Touch icon (gold R on dark walnut).
-- [ ] Browser test and review homepage PR.
+- [x] Adjust mobile hero to show the full wardrobe photo at its original aspect ratio, with compact text below.
+- [ ] Verify mobile hero in iPhone Safari after merge.
+- [ ] Complete wider browser testing.
 - [ ] Build responsive website and gallery.
 - [ ] Configure secure CMS dashboard and content integration.
 - [ ] Configure contact options and enquiry form if approved.
