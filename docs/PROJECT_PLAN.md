@@ -20,7 +20,11 @@
 - [ ] Confirm CMS, hosting and domain.
 - [ ] Agree branding, services, page structure and design.
 - [ ] Collect approved photos, copy and contact details.
-- [ ] Obtain explicit approval before coding.
+- [x] Obtain explicit approval for homepage implementation.
+- [x] Approve initial Figma homepage concept.
+- [x] Implement initial HTML, CSS and JavaScript homepage.
+- [ ] Add and verify approved wardrobe hero image.
+- [ ] Review homepage PR and test in browser.
 - [ ] Build responsive website and gallery.
 - [ ] Configure secure CMS dashboard and content integration.
 - [ ] Configure contact options and enquiry form if approved.
@@ -39,4 +43,10 @@
 | Photos, business details and social links | Pending |
 | Enquiry form and analytics | Pending |
 | Privacy notice and consent requirements | Pending |
-| Development approval | Not yet granted |
+| Development approval | Homepage approved; further development requires explicit approval |
+
+## Homepage review
+
+- [Figma concept](https://www.figma.com/design/zaj5I9zfY2hInfy2a5t3SI?node-id=12-2)
+- Contact details, actual project photos, reviews, booking integration and CMS remain pending. No fabricated contact details or reviews.
+- Always create a new branch from main, raise a PR and leave merging to the owner.
