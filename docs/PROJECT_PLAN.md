@@ -24,6 +24,7 @@
 - [x] Approve initial Figma homepage concept.
 - [x] Implement initial HTML, CSS and JavaScript homepage.
 - [x] Add approved wardrobe hero image and verify repository file.
+- [x] Add 120 × 120 Apple Touch icon (gold R on dark walnut).
 - [ ] Browser test and review homepage PR.
 - [ ] Build responsive website and gallery.
 - [ ] Configure secure CMS dashboard and content integration.
